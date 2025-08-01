@@ -1,0 +1,51 @@
+<Resource>
+    <pages>
+        <page name="工作界面" id="0" />
+        <page name="Screen1" id="1" />
+        <page name="子画面1" id="2" />
+        <page name="Pump1" id="3" />
+        <page name="Pump2" id="4" />
+        <page name="Pump3" id="5" />
+        <page name="Pump4" id="6" />
+        <page name="电机设置" id="7" />
+        <page name="方法管理弹窗" id="8" />
+        <page name="方法管理界面" id="9" />
+    </pages>
+    <images>
+        <image id="0" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\ASF-03X4加液界面2-02.png" effect_width="720" effect_height="1280" />
+        <image id="1" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 1@4x-8.png" effect_width="81" effect_height="201" />
+        <image id="2" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 2@4x-8.png" effect_width="111" effect_height="197" />
+        <image id="3" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 4@4x-8.png" effect_width="111" effect_height="197" />
+        <image id="4" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\Images\资源 4@2x.png" effect_width="40" effect_height="90" />
+        <image id="5" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\Images\资源 3@2x.png" effect_width="40" effect_height="90" />
+        <image id="6" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\Images\资源 2@2x.png" effect_width="40" effect_height="90" />
+        <image id="7" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\Images\资源 1@2x.png" effect_width="40" effect_height="90" />
+        <image id="8" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\充电图标.png" effect_width="45" effect_height="35" />
+        <image id="9" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 19@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="10" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 28@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="11" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 29@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="12" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 30@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="13" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\ASF-03X4加液界面3-03.png" effect_width="720" effect_height="1280" />
+        <image id="14" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 2@4x-8.png" effect_width="91" effect_height="191" />
+        <image id="15" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 4@4x-8.png" effect_width="91" effect_height="191" />
+        <image id="16" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 8@4x-8.png" effect_width="81" effect_height="176" />
+        <image id="17" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 6@4x-8.png" effect_width="81" effect_height="176" />
+        <image id="18" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 31@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="19" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 35@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="20" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 32@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="21" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 36@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="22" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 33@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="23" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 37@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="24" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 34@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="25" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 38@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="26" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\ASF-03X4加液界面5-05.png" effect_width="720" effect_height="1280" />
+        <image id="27" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\ASF-03X4加液界面4-04.png" effect_width="720" effect_height="1280" />
+        <image id="28" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\ASF-03X4加液界面6-06.png" effect_width="720" effect_height="1280" />
+        <image id="29" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 3@4x-8.png" effect_width="84" effect_height="218" />
+        <image id="30" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\ASF-03X4加液界面7-07.png" effect_width="600" effect_height="800" />
+        <image id="31" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\ASF-03X4加液界面8-08.png" effect_width="720" effect_height="1280" />
+        <image id="32" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 2@4x-8.png" effect_width="81" effect_height="161" />
+        <image id="33" url="e:\workspace\赛莱恩\手持式加液器\screen\asf03-4_v1.0_2024.2.27_手持式加液器屏幕x4\images\资源 1@4x-8.png" effect_width="65" effect_height="161" />
+    </images>
+    <waves />
+</Resource>
