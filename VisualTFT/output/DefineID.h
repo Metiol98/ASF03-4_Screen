@@ -143,6 +143,8 @@
 
 #define  _MENU_工作界面_MENU2                                                      8
 
+#define  _BTN_工作界面_BUTTON16                                                   22
+
 #define  _RECORD_工作界面_RECORD1                                                 23
 
 #define  _BTN_SCREEN1_BUTTON11                                                 6
