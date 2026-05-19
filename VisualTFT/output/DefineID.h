@@ -28,20 +28,38 @@
 //创建画面方法管理界面的命令索引ID
 #define  _SCREEN_方法管理界面                                                        9
 
+//创建画面对码模式弹窗的命令索引ID
+#define  _SCREEN_对码模式弹窗                                                       10
+
+//画面工作界面中按钮Button20按下时的图片
+#define  _IMG_工作界面_BUTTON20_DOWN                                               1
+
+#define  _BTN_工作界面_BUTTON20                                                   73
+
+//画面工作界面中按钮Button19按下时的图片
+#define  _IMG_工作界面_BUTTON19_DOWN                                               2
+
+#define  _BTN_工作界面_BUTTON19                                                   72
+
+//画面工作界面中按钮Button18按下时的图片
+#define  _IMG_工作界面_BUTTON18_DOWN                                               3
+
+#define  _BTN_工作界面_BUTTON18                                                   71
+
 #define  _ANIMATION_工作界面_ICON9                                                27
 
 //画面工作界面中动画控件Icon8使用的图片
-#define  _IMG_工作界面_ICON8                                                       1
+#define  _IMG_工作界面_ICON8                                                       4
 
 #define  _ANIMATION_工作界面_ICON8                                                26
 
 //画面工作界面中动画控件Icon7使用的图片
-#define  _IMG_工作界面_ICON7                                                       1
+#define  _IMG_工作界面_ICON7                                                       4
 
 #define  _ANIMATION_工作界面_ICON7                                                25
 
 //画面工作界面中动画控件Icon6使用的图片
-#define  _IMG_工作界面_ICON6                                                       1
+#define  _IMG_工作界面_ICON6                                                       4
 
 #define  _ANIMATION_工作界面_ICON6                                                24
 
@@ -50,30 +68,30 @@
 #define  _TXT_DIS__工作界面_TEXT_DISPLAY10                                        94
 
 //画面工作界面中按钮Button5弹起时的图片
-#define  _IMG_工作界面_BUTTON5_UP                                                  2
+#define  _IMG_工作界面_BUTTON5_UP                                                  5
 
 //画面工作界面中按钮Button5按下时的图片
-#define  _IMG_工作界面_BUTTON5_DOWN                                                3
+#define  _IMG_工作界面_BUTTON5_DOWN                                                6
 
 #define  _BTN_工作界面_BUTTON5                                                     3
 
 #define  _TXT_DIS__工作界面_TEXT_DISPLAY11                                        95
 
 //画面工作界面中按钮Button7弹起时的图片
-#define  _IMG_工作界面_BUTTON7_UP                                                  2
+#define  _IMG_工作界面_BUTTON7_UP                                                  5
 
 //画面工作界面中按钮Button7按下时的图片
-#define  _IMG_工作界面_BUTTON7_DOWN                                                2
+#define  _IMG_工作界面_BUTTON7_DOWN                                                5
 
 #define  _BTN_工作界面_BUTTON7                                                    19
 
 #define  _TXT_DIS__工作界面_TEXT_DISPLAY13                                        20
 
 //画面工作界面中按钮Button8弹起时的图片
-#define  _IMG_工作界面_BUTTON8_UP                                                  2
+#define  _IMG_工作界面_BUTTON8_UP                                                  5
 
 //画面工作界面中按钮Button8按下时的图片
-#define  _IMG_工作界面_BUTTON8_DOWN                                                3
+#define  _IMG_工作界面_BUTTON8_DOWN                                                6
 
 #define  _BTN_工作界面_BUTTON8                                                    13
 
@@ -110,6 +128,11 @@
 #define  _TXT_DIS__工作界面_TEXT_DISPLAY15                                        46
 
 #define  _TXT_DIS__工作界面_TEXT_DISPLAY16                                        47
+
+//画面工作界面中按钮Button17按下时的图片
+#define  _IMG_工作界面_BUTTON17_DOWN                                              12
+
+#define  _BTN_工作界面_BUTTON17                                                   70
 
 #define  _BTN_工作界面_BUTTON10                                                   30
 
@@ -308,21 +331,9 @@
 
 #define  _TXT_DIS__电机设置_TEXT_DISPLAY2                                          2
 
-#define  _TXT_DIS__电机设置_TEXT_DISPLAY3                                          3
-
-#define  _TXT_DIS__电机设置_TEXT_DISPLAY4                                          4
-
-#define  _TXT_DIS__电机设置_TEXT_DISPLAY5                                          5
-
 #define  _TXT_DIS__电机设置_TEXT_DISPLAY6                                          6
 
 #define  _TXT_DIS__电机设置_TEXT_DISPLAY7                                          7
-
-#define  _TXT_DIS__电机设置_TEXT_DISPLAY8                                          8
-
-#define  _TXT_DIS__电机设置_TEXT_DISPLAY9                                          9
-
-#define  _TXT_DIS__电机设置_TEXT_DISPLAY10                                        10
 
 //画面电机设置中按钮Button1按下时的图片
 #define  _IMG_电机设置_BUTTON1_DOWN                                               29
@@ -338,6 +349,21 @@
 #define  _TXT_DIS__电机设置_TEXT_DISPLAY14                                        15
 
 #define  _TXT_DIS__电机设置_TEXT_DISPLAY15                                        16
+
+#define  _TXT_DIS__电机设置_TEXT_DISPLAY16                                        17
+
+#define  _TXT_DIS__电机设置_TEXT_DISPLAY17                                        18
+
+#define  _TXT_DIS__电机设置_TEXT_DISPLAY18                                        19
+
+#define  _TXT_DIS__电机设置_TEXT_DISPLAY19                                        20
+
+//画面电机设置中按钮Button2按下时的图片
+#define  _IMG_电机设置_BUTTON2_DOWN                                               30
+
+#define  _BTN_电机设置_BUTTON2                                                    21
+
+#define  _TXT_DIS__电机设置_TEXT_DISPLAY10                                        10
 
 #define  _BTN_方法管理弹窗_BUTTON1                                                   2
 
@@ -360,7 +386,7 @@
 #define  _TXT_DIS__方法管理界面_TEXT_DISPLAY1                                        2
 
 //画面方法管理界面中按钮Button2按下时的图片
-#define  _IMG_方法管理界面_BUTTON2_DOWN                                             32
+#define  _IMG_方法管理界面_BUTTON2_DOWN                                             33
 
 #define  _BTN_方法管理界面_BUTTON2                                                   3
 
@@ -397,17 +423,17 @@
 #define  _ANIMATION_方法管理界面_ICON1                                              19
 
 //画面方法管理界面中动画控件Icon2使用的图片
-#define  _IMG_方法管理界面_ICON2                                                    33
+#define  _IMG_方法管理界面_ICON2                                                    34
 
 #define  _ANIMATION_方法管理界面_ICON2                                              20
 
 //画面方法管理界面中动画控件Icon3使用的图片
-#define  _IMG_方法管理界面_ICON3                                                    33
+#define  _IMG_方法管理界面_ICON3                                                    34
 
 #define  _ANIMATION_方法管理界面_ICON3                                              21
 
 //画面方法管理界面中动画控件Icon4使用的图片
-#define  _IMG_方法管理界面_ICON4                                                    33
+#define  _IMG_方法管理界面_ICON4                                                    34
 
 #define  _ANIMATION_方法管理界面_ICON4                                              22
 
@@ -420,4 +446,18 @@
 #define  _TXT_DIS__方法管理界面_TEXT_DISPLAY18                                      26
 
 #define  _RECORD_方法管理界面_RECORD1                                               27
+
+#define  _BTN_对码模式弹窗_BUTTON4                                                   2
+
+#define  _BTN_对码模式弹窗_BUTTON5                                                   4
+
+#define  _TXT_DIS__对码模式弹窗_TEXT_DISPLAY5                                        3
+
+#define  _TXT_DIS__对码模式弹窗_TEXT_DISPLAY6                                        5
+
+#define  _TXT_DIS__对码模式弹窗_TEXT_DISPLAY7                                        6
+
+#define  _BTN_对码模式弹窗_BUTTON6                                                   7
+
+#define  _TXT_DIS__对码模式弹窗_TEXT_DISPLAY8                                        8
 

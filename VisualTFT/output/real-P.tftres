@@ -10,21 +10,22 @@
         <page name="电机设置" id="7" />
         <page name="方法管理弹窗" id="8" />
         <page name="方法管理界面" id="9" />
+        <page name="对码模式弹窗" id="10" />
     </pages>
     <images>
         <image id="0" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面2-02.png" effect_width="720" effect_height="1280" />
-        <image id="1" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 1@4x-8.png" effect_width="81" effect_height="201" />
-        <image id="2" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="111" effect_height="197" />
-        <image id="3" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 4@4x-8.png" effect_width="111" effect_height="197" />
-        <image id="4" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 4@2x.png" effect_width="40" effect_height="90" />
-        <image id="5" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 3@2x.png" effect_width="40" effect_height="90" />
-        <image id="6" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 2@2x.png" effect_width="40" effect_height="90" />
-        <image id="7" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 1@2x.png" effect_width="40" effect_height="90" />
-        <image id="8" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\充电图标.png" effect_width="45" effect_height="35" />
-        <image id="9" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 19@4x-8.png" effect_width="140" effect_height="140" />
-        <image id="10" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 28@4x-8.png" effect_width="140" effect_height="140" />
-        <image id="11" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 29@4x-8.png" effect_width="140" effect_height="140" />
-        <image id="12" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 30@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="1" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 30@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="2" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 29@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="3" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 28@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="4" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 1@4x-8.png" effect_width="81" effect_height="201" />
+        <image id="5" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="111" effect_height="197" />
+        <image id="6" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 4@4x-8.png" effect_width="111" effect_height="197" />
+        <image id="7" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 4@2x.png" effect_width="40" effect_height="90" />
+        <image id="8" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 3@2x.png" effect_width="40" effect_height="90" />
+        <image id="9" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 2@2x.png" effect_width="40" effect_height="90" />
+        <image id="10" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 1@2x.png" effect_width="40" effect_height="90" />
+        <image id="11" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\充电图标.png" effect_width="45" effect_height="35" />
+        <image id="12" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 19@4x-8.png" effect_width="140" effect_height="140" />
         <image id="13" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面3-03.png" effect_width="720" effect_height="1280" />
         <image id="14" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="91" effect_height="191" />
         <image id="15" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 4@4x-8.png" effect_width="91" effect_height="191" />
@@ -40,12 +41,14 @@
         <image id="25" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 38@4x-8.png" effect_width="101" effect_height="160" />
         <image id="26" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面5-05.png" effect_width="720" effect_height="1280" />
         <image id="27" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面4-04.png" effect_width="720" effect_height="1280" />
-        <image id="28" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面6-06.png" effect_width="720" effect_height="1280" />
+        <image id="28" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03x4电机设置.jpg" effect_width="720" effect_height="1280" />
         <image id="29" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 3@4x-8.png" effect_width="84" effect_height="218" />
-        <image id="30" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面7-07.png" effect_width="600" effect_height="800" />
-        <image id="31" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面8-08.png" effect_width="720" effect_height="1280" />
-        <image id="32" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="81" effect_height="161" />
-        <image id="33" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 1@4x-8.png" effect_width="65" effect_height="161" />
+        <image id="30" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 3@4x-8.png" effect_width="62" effect_height="262" />
+        <image id="31" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面7-07.png" effect_width="600" effect_height="800" />
+        <image id="32" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面8-08.png" effect_width="720" effect_height="1280" />
+        <image id="33" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="81" effect_height="161" />
+        <image id="34" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 1@4x-8.png" effect_width="65" effect_height="161" />
+        <image id="35" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\对码模式弹窗.png" effect_width="600" effect_height="700" />
     </images>
     <waves />
 </Resource>
