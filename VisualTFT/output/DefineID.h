@@ -31,6 +31,15 @@
 //创建画面对码模式弹窗的命令索引ID
 #define  _SCREEN_对码模式弹窗                                                       10
 
+//创建画面泵管管理的命令索引ID
+#define  _SCREEN_泵管管理                                                         11
+
+//创建画面泵管提醒弹窗的命令索引ID
+#define  _SCREEN_泵管提醒弹窗                                                       12
+
+//创建画面登记泵管更换时间的命令索引ID
+#define  _SCREEN_登记泵管更换时间                                                     13
+
 //画面工作界面中按钮Button20按下时的图片
 #define  _IMG_工作界面_BUTTON20_DOWN                                               1
 
@@ -148,53 +157,65 @@
 
 #define  _BTN_工作界面_BUTTON14                                                   21
 
-#define  _BTN_工作界面_BUTTON2                                                     4
-
-#define  _BTN_工作界面_BUTTON3                                                     5
-
-#define  _BTN_工作界面_BUTTON4                                                     6
-
-#define  _BTN_工作界面_BUTTON15                                                    7
-
 #define  _SCREENCONTAINER_工作界面_SCREENCONTAINER2                               18
 
-#define  _MENU_工作界面_MENU4                                                     15
+#define  _TXT_DIS__工作界面_TEXT_DISPLAY1                                          4
 
-#define  _MENU_工作界面_MENU3                                                      9
+#define  _TXT_DIS__工作界面_TEXT_DISPLAY4                                          5
 
-#define  _MENU_工作界面_MENU1                                                      1
+#define  _TXT_DIS__工作界面_TEXT_DISPLAY12                                         6
 
-#define  _MENU_工作界面_MENU2                                                      8
+#define  _TXT_DIS__工作界面_TEXT_DISPLAY17                                         7
 
 #define  _BTN_工作界面_BUTTON16                                                   22
 
 #define  _RECORD_工作界面_RECORD1                                                 23
 
+//画面工作界面中按钮TubeAlert1按下时的图片
+#define  _IMG_工作界面_TUBEALERT1_DOWN                                            13
+
+#define  _BTN_工作界面_TUBEALERT1                                                 96
+
+//画面工作界面中按钮TubeAlert2按下时的图片
+#define  _IMG_工作界面_TUBEALERT2_DOWN                                            14
+
+#define  _BTN_工作界面_TUBEALERT2                                                 97
+
+//画面工作界面中按钮TubeAlert3按下时的图片
+#define  _IMG_工作界面_TUBEALERT3_DOWN                                            15
+
+#define  _BTN_工作界面_TUBEALERT3                                                 98
+
+//画面工作界面中按钮TubeAlert4按下时的图片
+#define  _IMG_工作界面_TUBEALERT4_DOWN                                            16
+
+#define  _BTN_工作界面_TUBEALERT4                                                 99
+
 #define  _BTN_SCREEN1_BUTTON11                                                 6
 
 //画面Screen1中按钮Button4按下时的图片
-#define  _IMG_SCREEN1_BUTTON4_DOWN                                            14
+#define  _IMG_SCREEN1_BUTTON4_DOWN                                            18
 
 #define  _BTN_SCREEN1_BUTTON4                                                 32
 
 //画面Screen1中按钮Button3弹起时的图片
-#define  _IMG_SCREEN1_BUTTON3_UP                                              14
+#define  _IMG_SCREEN1_BUTTON3_UP                                              18
 
 #define  _BTN_SCREEN1_BUTTON3                                                 31
 
 //画面Screen1中按钮Button2弹起时的图片
-#define  _IMG_SCREEN1_BUTTON2_UP                                              14
+#define  _IMG_SCREEN1_BUTTON2_UP                                              18
 
 //画面Screen1中按钮Button2按下时的图片
-#define  _IMG_SCREEN1_BUTTON2_DOWN                                            15
+#define  _IMG_SCREEN1_BUTTON2_DOWN                                            19
 
 #define  _BTN_SCREEN1_BUTTON2                                                 30
 
 //画面Screen1中按钮Button1弹起时的图片
-#define  _IMG_SCREEN1_BUTTON1_UP                                              14
+#define  _IMG_SCREEN1_BUTTON1_UP                                              18
 
 //画面Screen1中按钮Button1按下时的图片
-#define  _IMG_SCREEN1_BUTTON1_DOWN                                            15
+#define  _IMG_SCREEN1_BUTTON1_DOWN                                            19
 
 #define  _BTN_SCREEN1_BUTTON1                                                 29
 
@@ -265,7 +286,7 @@
 #define  _TXT_DIS__PUMP1_TEXT_DISPLAY8                                         9
 
 //画面Pump2的背景图片
-#define  _IMG_PUMP2                                                           27
+#define  _IMG_PUMP2                                                           31
 
 #define  _TXT_DIS__PUMP2_TEXT_DISPLAY1                                         1
 
@@ -286,7 +307,7 @@
 #define  _TXT_DIS__PUMP2_TEXT_DISPLAY8                                         9
 
 //画面Pump3的背景图片
-#define  _IMG_PUMP3                                                           27
+#define  _IMG_PUMP3                                                           31
 
 #define  _TXT_DIS__PUMP3_TEXT_DISPLAY1                                         1
 
@@ -307,7 +328,7 @@
 #define  _TXT_DIS__PUMP3_TEXT_DISPLAY8                                         9
 
 //画面Pump4的背景图片
-#define  _IMG_PUMP4                                                           27
+#define  _IMG_PUMP4                                                           31
 
 #define  _TXT_DIS__PUMP4_TEXT_DISPLAY1                                         1
 
@@ -336,7 +357,7 @@
 #define  _TXT_DIS__电机设置_TEXT_DISPLAY7                                          7
 
 //画面电机设置中按钮Button1按下时的图片
-#define  _IMG_电机设置_BUTTON1_DOWN                                               29
+#define  _IMG_电机设置_BUTTON1_DOWN                                               33
 
 #define  _BTN_电机设置_BUTTON1                                                    11
 
@@ -359,11 +380,21 @@
 #define  _TXT_DIS__电机设置_TEXT_DISPLAY19                                        20
 
 //画面电机设置中按钮Button2按下时的图片
-#define  _IMG_电机设置_BUTTON2_DOWN                                               30
+#define  _IMG_电机设置_BUTTON2_DOWN                                               34
 
 #define  _BTN_电机设置_BUTTON2                                                    21
 
 #define  _TXT_DIS__电机设置_TEXT_DISPLAY10                                        10
+
+//画面电机设置中按钮Button3弹起时的图片
+#define  _IMG_电机设置_BUTTON3_UP                                                 34
+
+//画面电机设置中按钮Button3按下时的图片
+#define  _IMG_电机设置_BUTTON3_DOWN                                               34
+
+#define  _BTN_电机设置_BUTTON3                                                    22
+
+#define  _TXT_DIS__电机设置_TEXT_DISPLAY3                                         23
 
 #define  _BTN_方法管理弹窗_BUTTON1                                                   2
 
@@ -386,7 +417,7 @@
 #define  _TXT_DIS__方法管理界面_TEXT_DISPLAY1                                        2
 
 //画面方法管理界面中按钮Button2按下时的图片
-#define  _IMG_方法管理界面_BUTTON2_DOWN                                             33
+#define  _IMG_方法管理界面_BUTTON2_DOWN                                             37
 
 #define  _BTN_方法管理界面_BUTTON2                                                   3
 
@@ -423,17 +454,17 @@
 #define  _ANIMATION_方法管理界面_ICON1                                              19
 
 //画面方法管理界面中动画控件Icon2使用的图片
-#define  _IMG_方法管理界面_ICON2                                                    34
+#define  _IMG_方法管理界面_ICON2                                                    38
 
 #define  _ANIMATION_方法管理界面_ICON2                                              20
 
 //画面方法管理界面中动画控件Icon3使用的图片
-#define  _IMG_方法管理界面_ICON3                                                    34
+#define  _IMG_方法管理界面_ICON3                                                    38
 
 #define  _ANIMATION_方法管理界面_ICON3                                              21
 
 //画面方法管理界面中动画控件Icon4使用的图片
-#define  _IMG_方法管理界面_ICON4                                                    34
+#define  _IMG_方法管理界面_ICON4                                                    38
 
 #define  _ANIMATION_方法管理界面_ICON4                                              22
 
@@ -460,4 +491,224 @@
 #define  _BTN_对码模式弹窗_BUTTON6                                                   7
 
 #define  _TXT_DIS__对码模式弹窗_TEXT_DISPLAY8                                        8
+
+#define  _BTN_泵管管理_BUTTON1                                                     1
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY1                                          2
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY2                                          3
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY3                                          4
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY4                                          5
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY5                                          6
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY6                                          7
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY7                                          8
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY9                                         10
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY10                                        11
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY11                                        12
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY12                                        13
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY13                                        14
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY14                                        15
+
+//画面泵管管理中按钮Button2按下时的图片
+#define  _IMG_泵管管理_BUTTON2_DOWN                                               45
+
+#define  _BTN_泵管管理_BUTTON2                                                    16
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY16                                        18
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY17                                        19
+
+//画面泵管管理中图片image62使用的图片
+#define  _IMG_泵管管理_IMAGE62                                                    43
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY18                                        20
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY19                                        21
+
+//画面泵管管理中图片image63使用的图片
+#define  _IMG_泵管管理_IMAGE63                                                    44
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY20                                        22
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY21                                        23
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY23                                        26
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY24                                        27
+
+//画面泵管管理中图片image64使用的图片
+#define  _IMG_泵管管理_IMAGE64                                                    43
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY25                                        28
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY26                                        29
+
+//画面泵管管理中图片image65使用的图片
+#define  _IMG_泵管管理_IMAGE65                                                    44
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY27                                        30
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY28                                        31
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY30                                        34
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY31                                        35
+
+//画面泵管管理中图片image66使用的图片
+#define  _IMG_泵管管理_IMAGE66                                                    43
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY32                                        36
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY33                                        37
+
+//画面泵管管理中图片image67使用的图片
+#define  _IMG_泵管管理_IMAGE67                                                    44
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY34                                        38
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY35                                        39
+
+//画面泵管管理中按钮Button6按下时的图片
+#define  _IMG_泵管管理_BUTTON6_DOWN                                               46
+
+#define  _BTN_泵管管理_BUTTON6                                                    42
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY37                                        43
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY38                                        44
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY39                                        45
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY40                                        46
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY41                                        47
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY42                                        48
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY51                                        51
+
+#define  _TXT_DIS__泵管管理_TEXT_DISPLAY49                                        49
+
+#define  _RTC_泵管管理_RTC1                                                       50
+
+#define  _TXT_DIS__泵管提醒弹窗_TEXT_DISPLAY1                                        2
+
+#define  _TXT_DIS__泵管提醒弹窗_TEXT_DISPLAY2                                        3
+
+#define  _TXT_DIS__泵管提醒弹窗_TEXT_DISPLAY3                                        4
+
+#define  _TXT_DIS__泵管提醒弹窗_TEXT_DISPLAY4                                        5
+
+#define  _TXT_DIS__泵管提醒弹窗_TEXT_DISPLAY5                                        6
+
+#define  _BTN_泵管提醒弹窗_BUTTON1                                                   7
+
+#define  _TXT_DIS__泵管提醒弹窗_TEXT_DISPLAY6                                        8
+
+#define  _TXT_DIS__泵管提醒弹窗_TEXT_DISPLAY9                                        9
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY2                                      2
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY3                                      3
+
+#define  _BTN_登记泵管更换时间_BUTTON4                                                 4
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY24                                    24
+
+//画面登记泵管更换时间中按钮button5弹起时的图片
+#define  _IMG_登记泵管更换时间_BUTTON5_UP                                             49
+
+//画面登记泵管更换时间中按钮button5按下时的图片
+#define  _IMG_登记泵管更换时间_BUTTON5_DOWN                                           50
+
+#define  _BTN_登记泵管更换时间_BUTTON5                                                 5
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY25                                    25
+
+//画面登记泵管更换时间中按钮button6弹起时的图片
+#define  _IMG_登记泵管更换时间_BUTTON6_UP                                             49
+
+//画面登记泵管更换时间中按钮button6按下时的图片
+#define  _IMG_登记泵管更换时间_BUTTON6_DOWN                                           50
+
+#define  _BTN_登记泵管更换时间_BUTTON6                                                 6
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY26                                    26
+
+//画面登记泵管更换时间中按钮button7弹起时的图片
+#define  _IMG_登记泵管更换时间_BUTTON7_UP                                             49
+
+//画面登记泵管更换时间中按钮button7按下时的图片
+#define  _IMG_登记泵管更换时间_BUTTON7_DOWN                                           50
+
+#define  _BTN_登记泵管更换时间_BUTTON7                                                 7
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY27                                    27
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY23                                    23
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY8                                      8
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY13                                    13
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY9                                      9
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY14                                    14
+
+//画面登记泵管更换时间中图片image32使用的图片
+#define  _IMG_登记泵管更换时间_IMAGE32                                                52
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY10                                    10
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY15                                    15
+
+//画面登记泵管更换时间中图片image33使用的图片
+#define  _IMG_登记泵管更换时间_IMAGE33                                                52
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY11                                    11
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY16                                    16
+
+//画面登记泵管更换时间中图片image34使用的图片
+#define  _IMG_登记泵管更换时间_IMAGE34                                                52
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY12                                    12
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY17                                    17
+
+//画面登记泵管更换时间中按钮button18按下时的图片
+#define  _IMG_登记泵管更换时间_BUTTON18_DOWN                                          53
+
+#define  _BTN_登记泵管更换时间_BUTTON18                                               18
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY28                                    28
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY19                                    19
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY22                                    22
+
+//画面登记泵管更换时间中按钮button20按下时的图片
+#define  _IMG_登记泵管更换时间_BUTTON20_DOWN                                          54
+
+#define  _BTN_登记泵管更换时间_BUTTON20                                               20
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY35                                    35
+
+//画面登记泵管更换时间中按钮button21按下时的图片
+#define  _IMG_登记泵管更换时间_BUTTON21_DOWN                                          55
+
+#define  _BTN_登记泵管更换时间_BUTTON21                                               21
+
+#define  _TXT_DIS__登记泵管更换时间_TEXT_DISPLAY36                                    36
 

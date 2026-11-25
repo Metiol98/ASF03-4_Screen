@@ -11,44 +11,67 @@
         <page name="方法管理弹窗" id="8" />
         <page name="方法管理界面" id="9" />
         <page name="对码模式弹窗" id="10" />
+        <page name="泵管管理" id="11" />
+        <page name="泵管提醒弹窗" id="12" />
+        <page name="登记泵管更换时间" id="13" />
     </pages>
     <images>
-        <image id="0" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面2-02.png" effect_width="720" effect_height="1280" />
-        <image id="1" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 30@4x-8.png" effect_width="140" effect_height="140" />
-        <image id="2" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 29@4x-8.png" effect_width="140" effect_height="140" />
-        <image id="3" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 28@4x-8.png" effect_width="140" effect_height="140" />
-        <image id="4" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 1@4x-8.png" effect_width="81" effect_height="201" />
-        <image id="5" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="111" effect_height="197" />
-        <image id="6" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 4@4x-8.png" effect_width="111" effect_height="197" />
-        <image id="7" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 4@2x.png" effect_width="40" effect_height="90" />
-        <image id="8" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 3@2x.png" effect_width="40" effect_height="90" />
-        <image id="9" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 2@2x.png" effect_width="40" effect_height="90" />
-        <image id="10" url="g:\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 1@2x.png" effect_width="40" effect_height="90" />
-        <image id="11" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\充电图标.png" effect_width="45" effect_height="35" />
-        <image id="12" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 19@4x-8.png" effect_width="140" effect_height="140" />
-        <image id="13" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面3-03.png" effect_width="720" effect_height="1280" />
-        <image id="14" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="91" effect_height="191" />
-        <image id="15" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 4@4x-8.png" effect_width="91" effect_height="191" />
-        <image id="16" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 8@4x-8.png" effect_width="81" effect_height="176" />
-        <image id="17" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 6@4x-8.png" effect_width="81" effect_height="176" />
-        <image id="18" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 31@4x-8.png" effect_width="101" effect_height="160" />
-        <image id="19" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 35@4x-8.png" effect_width="101" effect_height="160" />
-        <image id="20" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 32@4x-8.png" effect_width="101" effect_height="160" />
-        <image id="21" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 36@4x-8.png" effect_width="101" effect_height="160" />
-        <image id="22" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 33@4x-8.png" effect_width="101" effect_height="160" />
-        <image id="23" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 37@4x-8.png" effect_width="101" effect_height="160" />
-        <image id="24" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 34@4x-8.png" effect_width="101" effect_height="160" />
-        <image id="25" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 38@4x-8.png" effect_width="101" effect_height="160" />
-        <image id="26" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面5-05.png" effect_width="720" effect_height="1280" />
-        <image id="27" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面4-04.png" effect_width="720" effect_height="1280" />
-        <image id="28" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03x4电机设置.jpg" effect_width="720" effect_height="1280" />
-        <image id="29" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 3@4x-8.png" effect_width="84" effect_height="218" />
-        <image id="30" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 3@4x-8.png" effect_width="62" effect_height="262" />
-        <image id="31" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面7-07.png" effect_width="600" effect_height="800" />
-        <image id="32" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面8-08.png" effect_width="720" effect_height="1280" />
-        <image id="33" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="81" effect_height="161" />
-        <image id="34" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\资源 1@4x-8.png" effect_width="65" effect_height="161" />
-        <image id="35" url="g:\lcd_projiect\asf-03-4-screen\visualtft\images\对码模式弹窗.png" effect_width="600" effect_height="700" />
+        <image id="0" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面2-02.png" effect_width="720" effect_height="1280" />
+        <image id="1" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 30@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="2" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 29@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="3" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 28@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="4" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 1@4x-8.png" effect_width="81" effect_height="201" />
+        <image id="5" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="111" effect_height="197" />
+        <image id="6" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 4@4x-8.png" effect_width="111" effect_height="197" />
+        <image id="7" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 4@2x.png" effect_width="40" effect_height="90" />
+        <image id="8" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 3@2x.png" effect_width="40" effect_height="90" />
+        <image id="9" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 2@2x.png" effect_width="40" effect_height="90" />
+        <image id="10" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\Images\资源 1@2x.png" effect_width="40" effect_height="90" />
+        <image id="11" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\充电图标.png" effect_width="45" effect_height="35" />
+        <image id="12" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 19@4x-8.png" effect_width="140" effect_height="140" />
+        <image id="13" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_1.png" effect_width="36" effect_height="36" />
+        <image id="14" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_2.png" effect_width="36" effect_height="36" />
+        <image id="15" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_3.png" effect_width="36" effect_height="36" />
+        <image id="16" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_4.png" effect_width="36" effect_height="36" />
+        <image id="17" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面3-03.png" effect_width="720" effect_height="1280" />
+        <image id="18" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="91" effect_height="191" />
+        <image id="19" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 4@4x-8.png" effect_width="91" effect_height="191" />
+        <image id="20" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 8@4x-8.png" effect_width="81" effect_height="176" />
+        <image id="21" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 6@4x-8.png" effect_width="81" effect_height="176" />
+        <image id="22" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 31@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="23" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 35@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="24" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 32@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="25" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 36@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="26" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 33@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="27" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 37@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="28" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 34@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="29" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 38@4x-8.png" effect_width="101" effect_height="160" />
+        <image id="30" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面5-05.png" effect_width="720" effect_height="1280" />
+        <image id="31" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面4-04.png" effect_width="720" effect_height="1280" />
+        <image id="32" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03x4电机设置.jpg" effect_width="720" effect_height="1280" />
+        <image id="33" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 3@4x-8.png" effect_width="84" effect_height="218" />
+        <image id="34" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 3@4x-8.png" effect_width="62" effect_height="262" />
+        <image id="35" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面7-07.png" effect_width="600" effect_height="800" />
+        <image id="36" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\ASF-03X4加液界面8-08.png" effect_width="720" effect_height="1280" />
+        <image id="37" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="81" effect_height="161" />
+        <image id="38" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 1@4x-8.png" effect_width="65" effect_height="161" />
+        <image id="39" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\对码模式弹窗.png" effect_width="600" effect_height="700" />
+        <image id="40" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_manage_bg.png" effect_width="720" effect_height="1280" />
+        <image id="41" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 7@4x-8.png" effect_width="62" effect_height="150" />
+        <image id="42" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 9@4x-8.png" effect_width="62" effect_height="150" />
+        <image id="43" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_date_field.png" effect_width="60" effect_height="178" />
+        <image id="44" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_date_field.png" effect_width="60" effect_height="184" />
+        <image id="45" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="80" effect_height="252" />
+        <image id="46" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="80" effect_height="218" />
+        <image id="47" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_alert_panel.png" effect_width="600" effect_height="700" />
+        <image id="48" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_date_panel.png" effect_width="555" effect_height="960" />
+        <image id="49" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_date_field.png" effect_width="58" effect_height="150" />
+        <image id="50" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_date_selected.png" effect_width="58" effect_height="150" />
+        <image id="51" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_date_field.png" effect_width="64" effect_height="158" />
+        <image id="52" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\pump_tube_date_field.png" effect_width="64" effect_height="106" />
+        <image id="53" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="58" effect_height="226" />
+        <image id="54" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="66" effect_height="170" />
+        <image id="55" url="g:\work_embedded\sailane\05_backup\lcd_projiect\asf-03-4-screen\visualtft\images\资源 2@4x-8.png" effect_width="66" effect_height="221" />
     </images>
     <waves />
 </Resource>

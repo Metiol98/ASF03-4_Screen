@@ -16,8 +16,9 @@
 
 
 --初始化函数
---function on_init()
---end
+function on_init()
+	set_pinyin_fonl(10,0xFFFF)
+end
 
 --定时回调函数，系统每隔1秒钟自动调用。
 --function on_systick()
